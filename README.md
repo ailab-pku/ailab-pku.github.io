@@ -1,6 +1,6 @@
 ## Welcome to AI Lab in PKU!
 
-We are insterested in game ai, and we have an open game AI platform, [Botzone](www.botzone.org.cn)!
+We are insterested in game AI, and we have an open game AI platform, [Botzone](www.botzone.org.cn)!
 
 Botzone is a universal online multi-agent game AI platform, designed to evaluate different implementations of game AI by applying them to agents and compete with each other, featuring an ELO ranking system and a contest system for users to evaluate their AI programs.
 
