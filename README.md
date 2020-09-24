@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to AI Lab in PKU!
 
-You can use the [editor on GitHub](https://github.com/ailab-pku/ailab-pku.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are insterested in game ai, and we have an open game AI platform, [Botzone](www.botzone.org.cn)!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Botzone is a universal online multi-agent game AI platform, designed to evaluate different implementations of game AI by applying them to agents and compete with each other, featuring an ELO ranking system and a contest system for users to evaluate their AI programs.
 
-### Markdown
+Up to January 2020, we have 8058 users enrolled on Botzone.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The available languages on Botzone are C/C++, Java, C#, JavaScript (Node.js), Python. We also added machine learning libraries for Python, as well as the ability to save and load model data globally. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ailab-pku/ailab-pku.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This platform is publicly available on the internet currently, and we are eager to collaborate with organizations to provide more games, functions, and suggestions to support AI education and research.
